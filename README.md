@@ -39,7 +39,7 @@ I am currently completing my Full Stack Jr. Developer certification at Kodigo, w
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,discord,docker,postgres,figma,firebase,github,html,java,js,mysql,nodejs,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=css,discord,docker,postgres,figma,firebase,github,html,java,js,mysql,nodejs,postman,vscode,bootstrap,androidstudio,php" />
   </a>
 </p>
 
