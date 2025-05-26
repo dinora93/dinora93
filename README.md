@@ -1,7 +1,10 @@
-<h1 align="center"><b>Hi , I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="_blank" style="color: purple;">
-    Dinora Sánchez
-  </a> </b><img src="#" width="35"></h1>
-<!--  -->A
+<h1 align="center"><b>
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm 
+  <a style="color:purple">
+    Dinora Sánchez</b>
+  </a>
+</h1>
+<!--  -->
 
 <!--
 **dinora93/dinora93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
