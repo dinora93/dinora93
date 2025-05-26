@@ -11,13 +11,11 @@
 <!--  -->
 <h2><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me </h2>  
 
-<picture>
-  <img align="right" src="https://camo.githubusercontent.com/2a85a3fe4bc2747c3d6114596fbecf23279aacbc4ad08977c7e2e5ab86d2691d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313237373331322f73637265656e73686f74732f31343733333239382f6d656469612f33396231303435653539333733373538376464363065343263383432326431662e676966" width="400px">
-</picture>
+
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-
-👩‍🏫 Coordinator and Technology Educator | Web and Mobile Developer in Training
+👩‍🏫 Coordinator and Technology Educator | Web and Mobile Developer in Training <br>
 🌍 El Salvador<br>
 💻 Computer Systems Engineer | Full Stack Jr. Developer in Training
 
