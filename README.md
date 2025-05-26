@@ -1,6 +1,6 @@
 <h1 align="center"><b>
   Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm 
-  <a style="color:purple">
+  <a href="https://dinora93.github.io/dinora.github.io/">
     Dinora Sánchez</b>
   </a>
 </h1>
